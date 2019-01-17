@@ -1,17 +1,17 @@
 {
-  "name": "videos",
+  "name": "nests",
   "version": "1.0.0",
-  "description": "",
+  "description": "nest api connection",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Ben LaGrone benjaminlagrone@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mongoose": "^4.13.7"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4"
   }
 }
