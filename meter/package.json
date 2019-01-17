@@ -1,0 +1,17 @@
+{
+  "name": "meter",
+  "version": "1.0.0",
+  "description": "meters api connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ben LaGrone benjaminlagrone@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4"
+  }
+}
